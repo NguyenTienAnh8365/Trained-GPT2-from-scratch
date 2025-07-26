@@ -94,12 +94,6 @@ tokenizer.push_to_hub("your-username/gpt-tokenizer")
 
 ---
 
-## 🖼 Project Illustration
-
-![Folder Structure](./c7719961-03c6-478c-aced-7b0e3d734d18.png)
-
----
-
 ## 👤 Author
 
 **Nguyễn Tiến Anh**  
