@@ -97,7 +97,7 @@ tokenizer.push_to_hub("your-username/gpt-tokenizer")
 ## 👤 Author
 
 **Nguyễn Tiến Anh**  
-*Feel free to add contact info or GitHub/Hugging Face links here*
+Gmail: nguyentienanh8365@gmail.com
 
 ---
 
